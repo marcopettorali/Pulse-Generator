@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/Modelsim
+Edff
+Z1 w1578137990
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/vhd/src/dff.vhd
+Z5 FC:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/vhd/src/dff.vhd
+l0
+L4
+VGoo[CTiW^9Eob;PjZ^bg`3
+!s100 nlFKV30mL;?KIOz]EeZ7Q2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1578159123
+!i10b 1
+Z8 !s108 1578159123.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/vhd/src/dff.vhd|
+Z10 !s107 C:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/vhd/src/dff.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Artl
+R2
+R3
+DEx4 work 3 dff 0 22 Goo[CTiW^9Eob;PjZ^bg`3
+l13
+L12
+Vo]?^1MQ>C?XJFh9];hUMj0
+!s100 SAeaMNDoTMfQ<aj9Kz0L?0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Epulsegen
+Z13 w1578139592
+R2
+R3
+R0
+Z14 8C:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/vhd/src/pulsegen.vhd
+Z15 FC:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/vhd/src/pulsegen.vhd
+l0
+L4
+VWD2FNQ^ZjmcBQ9YOIH>Q;0
+!s100 MH<27CP;kQRQgEzW_:cJ?1
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/vhd/src/pulsegen.vhd|
+Z17 !s107 C:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/vhd/src/pulsegen.vhd|
+!i113 1
+R11
+R12
+Artl
+R2
+R3
+DEx4 work 8 pulsegen 0 22 WD2FNQ^ZjmcBQ9YOIH>Q;0
+l39
+L13
+V^MJzKjZeSIIJ8I[PPJ`Pe0
+!s100 nneKPR1C8R2YjbXcKfT6U2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Epulsegen_tb
+Z18 w1578159067
+R2
+R3
+R0
+Z19 8C:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/vhd/tb/pulsegen_tb.vhd
+Z20 FC:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/vhd/tb/pulsegen_tb.vhd
+l0
+L4
+VlY3]9iez`AHQP7Nl=ERz[3
+!s100 2^NT2ibW7=8cOEna^9UN62
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/vhd/tb/pulsegen_tb.vhd|
+Z22 !s107 C:/Users/User/Desktop/Marco/Scuola/UNIVERSITA/CORSI/MAGISTRALE/I anno/I SEMESTRE/Electronics and Communication Systems/Electronic Systems/PROGETTO/PulseGen/vhd/tb/pulsegen_tb.vhd|
+!i113 1
+R11
+R12
+Atest
+R2
+R3
+Z23 DEx4 work 11 pulsegen_tb 0 22 lY3]9iez`AHQP7Nl=ERz[3
+l28
+L7
+VUIhF?9l`j6_kC9Z>S^i351
+!s100 4QV_^@6BY9<9zL6JJACMf3
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12

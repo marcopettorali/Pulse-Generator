@@ -1,0 +1,48 @@
+<shape name="D Type RS Flip-Flop" h="100" w="100" aspect="variable" strokewidth="inherit">
+<connections>
+<constraint x="0" y="0.3" perimeter="0" name="D"/>
+<constraint x="0" y="0.7" perimeter="0" name="E"/>
+<constraint x="1" y="0.3" perimeter="0" name="Q"/>
+<constraint x="0.5" y="1" perimeter="0" name="R"/>
+</connections>
+<background>
+<rect x="20" y="10" w="60" h="80"/>
+</background>
+<foreground>
+<fillstroke/>
+<path>
+<move x="0" y="30"/>
+<line x="20" y="30"/>
+</path>
+<stroke/>
+<path>
+<move x="0" y="70"/>
+<line x="20" y="70"/>
+</path>
+<stroke/>
+<path>
+<move x="80" y="30"/>
+<line x="100" y="30"/>
+</path>
+<stroke/>
+<fontcolor color="#000000"/>
+<fontsize size="12"/>
+<text str="D" x="25" y="35" align="center" valign="bottom"/>
+<text str="Q" x="75" y="35" align="center" valign="bottom"/>
+<stroke/>
+<stroke/>
+<path>
+<move x="20" y="65"/>
+<line x="30" y="70"/>
+<line x="20" y="75"/>
+</path>
+<stroke/>
+<stroke/>
+<path>
+<move x="50" y="90"/>
+<line x="50" y="100"/>
+</path>
+<stroke/>
+<text str="R" x="50" y="89" align="center" valign="bottom"/>
+</foreground>
+</shape>

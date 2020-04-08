@@ -1,0 +1,32 @@
+<shape name="Inverter" h="60" w="100" aspect="variable" strokewidth="inherit">
+<connections>
+<constraint x="0" y="0.5" perimeter="0" name="in1"/>
+<constraint x="1" y="0.5" perimeter="0" name="out"/>
+</connections>
+<background>
+<save/>
+<miterlimit limit="2"/>
+<path>
+<move x="20" y="0"/>
+<line x="80" y="30"/>
+<line x="20" y="60"/>
+<close/>
+</path>
+</background>
+<foreground>
+<fillstroke/>
+<restore/>
+<miterlimit limit="4"/>
+<path>
+<move x="0" y="30"/>
+<line x="20" y="30"/>
+</path>
+<stroke/>
+<path>
+</path>
+<stroke/>
+<stroke/>
+<ellipse x="80" y="20" w="20" h="20"/>
+<fillstroke/>
+</foreground>
+</shape>

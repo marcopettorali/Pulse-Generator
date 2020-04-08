@@ -1,0 +1,33 @@
+<shape name="generic gate" h="100" w="100" aspect="variable" strokewidth="inherit">
+<connections>
+<constraint x="0" y="0.3" perimeter="0" name="A"/>
+<constraint x="0" y="0.7" perimeter="0" name="B"/>
+<constraint x="1" y="0.5" perimeter="0" name="Q"/>
+</connections>
+<background>
+<rect x="20" y="10" w="60" h="80"/>
+</background>
+<foreground>
+<fillstroke/>
+<path>
+<move x="0" y="30"/>
+<line x="20" y="30"/>
+</path>
+<stroke/>
+<path>
+<move x="0" y="70"/>
+<line x="20" y="70"/>
+</path>
+<stroke/>
+<path>
+<move x="80" y="50"/>
+<line x="100" y="50"/>
+</path>
+<stroke/>
+<stroke/>
+<stroke/>
+<stroke/>
+<stroke/>
+<stroke/>
+</foreground>
+</shape>
